@@ -1,13 +1,13 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace LunraGames.PluGit
+namespace LunraGames.PlugIt
 {
 	public static class Settings
 	{
 		class Keys
 		{
-			const string Prefix = "LG_PluGit_";
+			const string Prefix = "LG_PlugIt_";
 			public const string AnyConfigEditingAllowed = Prefix + "AnyConfigEditingAllowed";
 		}
 

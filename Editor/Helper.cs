@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 
-namespace LunraGames.PluGit
+namespace LunraGames.PlugIt
 {
 	public static class Helper
 	{

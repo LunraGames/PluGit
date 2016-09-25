@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LunraGames.PluGit
+namespace LunraGames.PlugIt
 {
 	[Serializable]
 	public struct UrlPropertyBlock

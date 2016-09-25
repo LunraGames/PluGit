@@ -1,4 +1,4 @@
-﻿namespace LunraGames.PluGit
+﻿namespace LunraGames.PlugIt
 {
 	public enum AutomatedFormats
 	{

@@ -2,11 +2,11 @@
 using UnityEngine;
 using System.IO;
 
-namespace LunraGames.PluGit
+namespace LunraGames.PlugIt
 {
 	public static class MenuOptions
 	{
-		[MenuItem("Assets/Create/PluGit Plugin")]
+		[MenuItem("Assets/Create/PlugIt Plugin")]
 		static void CreatePlugin()
 		{
 			var dir = SelectionExtensions.Directory();

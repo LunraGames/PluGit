@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace LunraGames.PluGit
+namespace LunraGames.PlugIt
 {
 	[CustomEditor(typeof(PluginConfig), true)]
 	public class PluginConfigEditor : Editor

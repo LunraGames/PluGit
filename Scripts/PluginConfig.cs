@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace LunraGames.PluGit
+namespace LunraGames.PlugIt
 {
 	public class PluginConfig : ScriptableObject
 	{

@@ -2,11 +2,11 @@
 using System.Collections;
 using UnityEditor;
 
-namespace LunraGames.PluGit
+namespace LunraGames.PlugIt
 {
 	public static class Preferences
 	{
-		[PreferenceItem("PluGit")]
+		[PreferenceItem("PlugIt")]
 		static void OnGUI()
 		{
 			Settings.IsAnyConfigEditingAllowed = EditorGUILayout.Toggle(

@@ -2,7 +2,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace LunraGames.PluGit
+namespace LunraGames.PlugIt
 {
 	public struct UrlBlock
 	{
