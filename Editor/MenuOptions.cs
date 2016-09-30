@@ -6,7 +6,9 @@ namespace LunraGames.PlugIt
 {
 	public static class MenuOptions
 	{
+#if PLUGIT_DEV
 		[MenuItem("Assets/Create/PlugIt Plugin")]
+#endif
 		static void CreatePlugin()
 		{
 			var dir = SelectionExtensions.Directory();
