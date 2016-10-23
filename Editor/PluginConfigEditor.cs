@@ -1,8 +1,9 @@
-﻿using System.IO;
-using UnityEditor;
+﻿using UnityEditor;
 using UnityEngine;
+using LunraGames;
+using LunraGames.PlugIt;
 
-namespace LunraGames.PlugIt
+namespace LunraGamesEditor.PlugIt
 {
 	[CustomEditor(typeof(PluginConfig), true)]
 	public class PluginConfigEditor : Editor

@@ -1,6 +1,6 @@
-﻿namespace LunraGames.PlugIt
+﻿namespace LunraGamesEditor.PlugIt
 {
-	public class Strings : LunraGames.Strings
+	public class Strings : LunraGamesEditor.Strings
 	{
 		public class Files
 		{

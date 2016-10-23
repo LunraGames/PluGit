@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEditor;
 
-namespace LunraGames.PlugIt
+namespace LunraGamesEditor.PlugIt
 {
 	public static class Preferences
 	{

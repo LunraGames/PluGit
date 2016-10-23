@@ -1,8 +1,9 @@
 ﻿using UnityEditor;
 using UnityEngine;
 using System.IO;
+using LunraGames.PlugIt;
 
-namespace LunraGames.PlugIt
+namespace LunraGamesEditor.PlugIt
 {
 	public static class MenuOptions
 	{

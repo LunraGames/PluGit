@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace LunraGames.PlugIt
+namespace LunraGamesEditor.PlugIt
 {
 	public static class Settings
 	{

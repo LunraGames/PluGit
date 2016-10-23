@@ -1,9 +1,7 @@
-﻿using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEditor;
+﻿using UnityEditor;
+using LunraGames.PlugIt;
 
-namespace LunraGames.PlugIt
+namespace LunraGamesEditor.PlugIt
 {
 	public static class Helper
 	{
